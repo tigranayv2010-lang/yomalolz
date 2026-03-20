@@ -1,0 +1,34 @@
+{
+  "8133917737": {
+    "lang": "ru",
+    "wallets": {
+      "ton": "",
+      "rub_card": "",
+      "usd_card": "",
+      "any_currency": ""
+    },
+    "balances": {
+      "ton": 0.0,
+      "rub": 0.0,
+      "usd": 0.0,
+      "stars": 0.0
+    },
+    "username": "@tigranayv"
+  },
+  "6294876402": {
+    "lang": "ru",
+    "wallets": {
+      "ton": "",
+      "rub_card": "",
+      "usd_card": "",
+      "any_currency": ""
+    },
+    "balances": {
+      "ton": 0.0,
+      "rub": 0.0,
+      "usd": 0.0,
+      "stars": 0.0
+    },
+    "username": "@Poparert"
+  }
+}
