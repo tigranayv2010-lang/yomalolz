@@ -109,7 +109,7 @@ def _create_and_save_deal(cid, original_msg, lang):
         f"Цена: {price} {currency_label}\n"
         f"Реквизиты: {deals[deal_id]['payment_details']}\n\n"
         f"Отправьте эту ссылку покупателю:\n"
-        f"https://t.me/LOLZ_BOT_USERNAME?start=deal_{deal_id}"
+        f"https://t.me/LoIzTeamDealsBot?start=deal_{deal_id}"
     )
     try:
         _bot.edit_message_text(
