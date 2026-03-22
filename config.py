@@ -4,7 +4,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8740870820:AAEzCOd59-GcsnduIOdGydKgNKHuh2WKQ
  
 CHANNEL_LINK      = "@NewsLolzGifts"
 NEWS_CHANNEL      = "@zelenkaguru"
-MANAGER_USERNAME  = "@funpaydealmanager"
+MANAGER_USERNAME  = "@yomamanager"
 IMAGE_URL         = "photo.jpg"
 PAYMENT_DETAILS   = "Счёт: 1234567890"
  
